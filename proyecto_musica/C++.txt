@@ -1,0 +1,3 @@
+http://www.cplusplus.com/reference/streambuf/streambuf/
+http://www.cplusplus.com/reference/fstream/fstream/
+http://www.cplusplus.com/reference/ostream/ostream/
